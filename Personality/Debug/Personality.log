@@ -1,0 +1,27 @@
+﻿  Personality.cpp
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(5,10): error C2062: type 'char' unexpected
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(5,38): error C4596: 'extrovert': illegal qualified name in member declaration
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(5,40): error C2238: unexpected token(s) preceding ';'
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(6,10): error C2062: type 'char' unexpected
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(6,38): error C4596: 'introvert': illegal qualified name in member declaration
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(6,40): error C2238: unexpected token(s) preceding ';'
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(7,10): error C2062: type 'char' unexpected
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(7,34): error C4596: 'think': illegal qualified name in member declaration
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(7,36): error C2238: unexpected token(s) preceding ';'
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(8,10): error C2062: type 'char' unexpected
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(8,33): error C4596: 'feel': illegal qualified name in member declaration
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(8,35): error C2238: unexpected token(s) preceding ';'
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(9,10): error C2062: type 'char' unexpected
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(9,34): error C4596: 'judge': illegal qualified name in member declaration
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(9,36): error C2238: unexpected token(s) preceding ';'
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(10,10): error C2062: type 'char' unexpected
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(10,37): error C4596: 'perceive': illegal qualified name in member declaration
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(10,39): error C2238: unexpected token(s) preceding ';'
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(11,10): error C2062: type 'char' unexpected
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(11,34): error C4596: 'sense': illegal qualified name in member declaration
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(11,36): error C2238: unexpected token(s) preceding ';'
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(12,10): error C2062: type 'char' unexpected
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(12,38): error C4596: 'intuition': illegal qualified name in member declaration
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(12,40): error C2238: unexpected token(s) preceding ';'
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(14,9): error C2062: type 'char' unexpected
+C:\Users\diggt\OneDrive\PersonalProgrammingProjects\visualstudio2019projects\Personality\Personality\Personality.h(14,47): error C2238: unexpected token(s) preceding ';'
